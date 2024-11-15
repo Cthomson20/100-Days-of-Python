@@ -28,4 +28,4 @@ for char in range(0, nr_numbers):
 random.shuffle(password)
 password = ''.join(password)
 
-print(f"Your Password is: {password}")
+print(f"\nYour Password is: {password}")
